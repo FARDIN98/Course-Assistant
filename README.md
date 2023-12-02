@@ -102,9 +102,5 @@
 
 </details>
 
-&nbsp;
-## 🔆 **Need Help?**
-**Email (Ahasan):** [makhan201122@bscse.uiu.ac.bd](mailto:makhan201122@bscse.uiu.ac.bd)\
-**Email (Asif):** [aahmed201129@bscse.uiu.ac.bd](mailto:aahmed201129@bscse.uiu.ac.bd)\
-**Email (Sunny):** [ssuttradhar201084@bscse.uiu.ac.bd](mailto:ssuttradhar201084@bscse.uiu.ac.bd)
+
 
